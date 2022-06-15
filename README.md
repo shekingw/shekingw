@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Buenos Aires, Argentina.
-* ✉️  You can contact me at [sheking142@gmail.com](mailto:sheking142@gmail.com)
+* ✉️  You can contact me at [alanoterow@gmail.com](mailto:alanoterow@gmail.com)
 
 ### Skills
 
